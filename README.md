@@ -28,7 +28,7 @@ namespace  Project03
 - Criamos uma class chamada Program.
 - Criamos o metodo principal do programa chamada Main.
 
-<p> Dentro do bloco principal vemos observamos algumas coisas ja conhecidas, como: 
+<p> Dentro do bloco principal observamos algumas coisas ja conhecidas, como: 
 
 - Declaração de variaveis de tipo integer.
 - chamada da classe <u><b>Console</b></u> com seu metodo <u><b>WriteLine().</b></u>
